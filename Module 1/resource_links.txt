@@ -1,0 +1,7 @@
+1. Git Basics: https://git-scm.com/book/en/v2
+
+2. Linux Terminal Basics: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+3. Mac Terminal Basics: https://code.tutsplus.com/tutorials/command-line-basics-and-useful-tricks-with-the-terminal--cms-29356
+
+4. Windows Command Line Basics: https://www.computerhope.com/overview.htm 
