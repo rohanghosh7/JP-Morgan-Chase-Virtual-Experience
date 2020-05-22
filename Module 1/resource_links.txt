@@ -5,3 +5,11 @@
 3. Mac Terminal Basics: https://code.tutsplus.com/tutorials/command-line-basics-and-useful-tricks-with-the-terminal--cms-29356
 
 4. Windows Command Line Basics: https://www.computerhope.com/overview.htm 
+
+5. Installation instructions for Python: https://docs.python-guide.org/starting/installation/
+
+6. Installation instructions for Pip: https://pip.pypa.io/en/stable/installing/
+
+7. Guide to Python unit testing and assertions: https://docs.python.org/2.7/library/unittest.html#assert-methods
+
+8. JP Morgan Chase's perspective: https://perspective.finos.org/
